@@ -1,0 +1,298 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.conc {
+    background-image: url(https://taxjustice.net/wp-content/uploads/fly-images/14718/corporate-towers-scaled-1400x600-c.jpg);
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+    object-fit: none;
+    object-position: left top;
+    border: 5px solid black;
+    padding: 50px, 20px;
+    margin: 50px, 30px;
+}
+
+.conc p {
+    text-align: left;
+    opacity: 1;
+    padding: auto;
+    margin: 9;
+    border: 3px solid beige;
+    width: 50%;
+    height: 20%;
+    color: brown;
+    background-color: aliceblue;
+    float: left;
+}
+
+.conc form {
+    float: right;
+
+
+
+}
+
+.intro {
+
+    background-image: url(https://taxjustice.net/wp-content/uploads/fly-images/14718/corporate-towers-scaled-1400x600-c.jpg);
+    width: 100%;
+    height: 600px;
+    border: 5px solid black;
+    padding: 50px, 20px;
+    margin: 50px, 30px;
+    z-index: 10;
+}
+
+
+.intro h1 {
+    text-align: center;
+    top: 40%;
+    left: 25%;
+    color: red;
+    font-size: large;
+    font-weight: bold;
+    position: relative;
+    width: 50%;
+    font-size: 30px;
+
+}
+
+.intro h2 {
+    position: relative;
+    top: 42%;
+    left: 20%;
+    color: red;
+    width: 50%;
+    text-align: center;
+
+
+}
+
+header {
+    z-index: 10;
+    display: inline-flex;
+    float: inline-end;
+}
+
+ul {
+    list-style: none;
+    position: fixed;
+    background-color: black;
+    display: block;
+    ;
+
+}
+
+li {
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid grey;
+    overflow: none;
+    background-color: yellow;
+}
+
+.l {
+    float: left;
+    margin-left: 550px;
+
+
+}
+
+
+
+.about h1 {
+    text-align: center;
+
+}
+
+
+.about p {
+    text-align: center;
+    text-indent: 100px;
+}
+
+.about {
+    margin-top: 20px;
+}
+
+.service h1 {
+    text-align: center;
+
+}
+
+.service img {
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+.service h2 {
+
+    text-align: center;
+    text-indent: 50px;
+
+}
+
+.service p {
+    text-align: center;
+    text-indent: 50px;
+
+}
+
+.service {
+    margin-top: 20px;
+    padding: 50px, 20px;
+    margin: 50px, 30px;
+    text-indent: 50px;
+
+}
+
+
+.pre img {
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+
+
+}
+
+.pre h2 {
+
+
+    text-align: center;
+
+}
+
+.pre p {
+    text-indent: 50px;
+    text-align: center;
+
+}
+
+.pre {
+    margin-top: 20px;
+}
+
+.maint img {
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+
+}
+
+.maint h2 {
+
+
+    text-align: center;
+}
+
+.maint p {
+    text-align: center;
+    text-indent: 50px;
+
+}
+
+.maint {
+    margin-top: 20px;
+}
+
+.land {
+    margin-top: 20px;
+}
+
+.land img {
+
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+.land h2 {
+    text-align: center;
+}
+
+.land p {
+    text-align: center;
+    text-indent: 50px;
+}
+
+.real img {
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+.real h2 {
+    position: relative;
+    left: 35%;
+}
+
+.real p {
+    text-align: center;
+}
+
+.real {
+    margin: 20px;
+}
+
+.plam img {
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+.plam h2 {
+    position: relative;
+    left: 35%;
+}
+
+.plam p {
+    text-align: center;
+}
+
+.plam {
+    margin-top: 20px;
+}
+
+
+
+.loggo img {
+    height: 100%;
+    width: 5%;
+    border-radius: 30%;
+
+    
+}
+
+.loggo {
+    width: 100%;
+    height: 15%;
+    border: 5px solid black;
+    padding: 50px, 20px;
+    margin: 50px, 30px;
+    background-color: black;
+    position: fixed;
+    margin-bottom: 20px;
+}
